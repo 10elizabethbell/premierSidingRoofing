@@ -11,6 +11,66 @@
         ],
         "createdAt": "2026-10-21T11:41:20.101Z",
         "reason": "Ellie's house style (calm-photo-style.md item 2, chosen 2026-10-19): faint 3.5% diagonal band texture on deep navy bands"
+      },
+      {
+        "rule": "design-system-radius",
+        "value": "6px",
+        "createdAt": "2026-10-21T11:50:54.323Z",
+        "reason": "claude (pitch-site build): shipped value reviewed in the Impeccable sweep; DESIGN.md was derived from this page and didn't list every step (focus-ring corner)"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "rgba(9,20,40,.8)",
+        "createdAt": "2026-10-21T11:50:54.384Z",
+        "reason": "claude (pitch-site build): shipped value reviewed in the Impeccable sweep; DESIGN.md was derived from this page and didn't list every step (hero navy overlay, contrast-sampled 8.4:1)"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "#1877f2",
+        "createdAt": "2026-10-21T11:50:54.449Z",
+        "reason": "Facebook's own logo blue on the Facebook link icon"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "20px",
+        "createdAt": "2026-10-21T11:50:54.514Z",
+        "reason": "claude (pitch-site build): shipped value reviewed in the Impeccable sweep; DESIGN.md was derived from this page and didn't list every step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "15px",
+        "createdAt": "2026-10-21T11:50:54.578Z",
+        "reason": "claude (pitch-site build): shipped value reviewed in the Impeccable sweep; DESIGN.md was derived from this page and didn't list every step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "28px",
+        "createdAt": "2026-10-21T11:50:54.645Z",
+        "reason": "claude (pitch-site build): shipped value reviewed in the Impeccable sweep; DESIGN.md was derived from this page and didn't list every step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "44px",
+        "createdAt": "2026-10-21T11:50:54.712Z",
+        "reason": "claude (pitch-site build): shipped value reviewed in the Impeccable sweep; DESIGN.md was derived from this page and didn't list every step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "25px",
+        "createdAt": "2026-10-21T11:50:54.777Z",
+        "reason": "claude (pitch-site build): shipped value reviewed in the Impeccable sweep; DESIGN.md was derived from this page and didn't list every step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "11px",
+        "createdAt": "2026-10-21T11:50:54.843Z",
+        "reason": "claude (pitch-site build): shipped value reviewed in the Impeccable sweep; DESIGN.md was derived from this page and didn't list every step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "22px",
+        "createdAt": "2026-10-21T11:50:54.904Z",
+        "reason": "claude (pitch-site build): shipped value reviewed in the Impeccable sweep; DESIGN.md was derived from this page and didn't list every step"
       }
     ]
   }
